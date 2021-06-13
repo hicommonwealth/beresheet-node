@@ -9,7 +9,7 @@ The only change is to the runtime's name and chain ID:
 After cloning this repository, you may want to add edgeware-node as an upstream:
 
 ```
-git remote add -m edgeware git@github.com:hicommonwealth/beresheet-node.git
+git remote add edgeware git@github.com:hicommonwealth/edgeware-node.git
 ```
 
 To merge in changes from edgeware-node:
